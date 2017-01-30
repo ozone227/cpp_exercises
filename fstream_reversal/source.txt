@@ -1,0 +1,2 @@
+# Source Content should remain intact
+An iterator is any object that, pointing to some element in a range of elements (such as an array or a container), has the ability to iterate through the elements of that range using a set of operators (with at least the increment (++) and dereference
