@@ -1,2 +1,5 @@
 # cpp_exercises
-C++ Exercises
+
+# A Collection of C++ Exercises 
+
+* Sequencing Threads with Condition Variable
