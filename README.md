@@ -7,3 +7,4 @@
 * Integer Pointers Program
 * Salary Calculator
 * File Operations & Reverse Iterators
+* Using Setprecision & Fixed to Format Currency
